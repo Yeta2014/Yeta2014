@@ -1,24 +1,65 @@
-<h2> Hi, I'm Yeimmy! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>
-    Software Developer at 
-    <a href="https://oferta.senasofiaplus.edu.co/sofia-oferta/inicio-sofia-plus.html?ctr=registrado">SENA</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35" style="margin-left: 10px;">
-</em></p>
+# Yeimmy Suarez 👩‍💻  
+**Desarrolladora Python y Especialista en Automatización**
 
-
-[![Linkedin: YeimmySuarez](https://img.shields.io/badge/-YeimmySuarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeimmy-tatiana-suarez-quintero-01b5b6270/)](https://www.linkedin.com/in/yeimmy-tatiana-suarez-quintero-01b5b6270/)
-[![GitHub YeimmySuarez](https://img.shields.io/github/followers/Yeta2014?label=follow&style=social)](https://github.com/Yeta2014)
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+Soy una desarrolladora apasionada y organizada con una sólida base en desarrollo de software y automatización de procesos. Mi experiencia incluye la creación de soluciones eficientes y personalizadas para clientes en diversos sectores. Me destaco por mi habilidad para aprender rápidamente, mi atención al detalle y mi compromiso con la mejora continua.
 
 ---
 
-⭐️ From [@Yeta2014](https://github.com/Yeta2014)
+## 📞 Contacto
+
+- **Correo:** [tatisuarez2004@gmail.com](mailto:tatisuarez2004@gmail.com)  
+- **LinkedIn:** [Yeimmy Suarez](https://www.linkedin.com/in/yeimmy-tatiana-suarez-quintero-01b5b6270/)  
+- **GitHub:** [YeimmySuarez](https://github.com/Yeta2014)
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes:** Python, JavaScript, Java  
+- **Frameworks:** Flask, Selenium con Python  
+- **Bases de Datos:** MySQL  
+- **Herramientas:** Git/GitHub, VSCode, Automatización de Pruebas  
+- **Metodologías:** Scrum  
+- **Sistemas Operativos:** Windows  
+- **Otras habilidades:** Manejo de grandes volúmenes de datos y optimización de procesos
+
+---
+
+## 🎓 Educación
+
+- **SENA**
+  - Tecnólogo en Análisis y Desarrollo de Sistemas de Información  
+  - Técnico en Programación de Software (2019 - 2021)
+
+---
+
+## 💼 Experiencia
+
+### **C-pocket** *(Desarrolladora Python)*  
+**Septiembre 2023 - Presente**  
+- Desarrollo de módulos en Python orientados a mejorar la automatización de procesos internos.  
+- Análisis y optimización de datos a gran escala para aumentar la eficiencia operativa.
+
+### **Aviation Technologies** *(Practicante de Desarrollo de Software)*  
+**Marzo 2023 - Agosto 2023**  
+- Automatización de procesos administrativos.  
+- Diseño e implementación de pruebas automatizadas para sistemas internos.
+
+### **Proyecto SENA** *(Desarrolladora de Software)*  
+**Diciembre 2021 - Marzo 2022**  
+- Desarrollo de un sistema de gestión de usuarios utilizando Python y PHP.  
+- Optimización del almacenamiento de datos en bases de datos MySQL.
+
+---
+
+## 🌟 Proyectos Destacados
+
+### **Automatización de Pruebas (C-pocket)**  
+- Desarrollo de scripts automatizados que incrementaron la eficiencia en un 40%.  
+- Implementación de estrategias para identificar y corregir errores en sistemas.
+
+### **Desarrollo Web Dinámico (Proyecto SENA)**  
+- Creación de un sistema de gestión de usuarios dinámico con integración de bases de datos.  
+- Implementación de automatización en la actualización de registros y análisis de datos.
+
+---
