@@ -1,5 +1,5 @@
 # 👩‍💻 Yeimmy Suarez  
-### Desarrolladora Python | Automatización de Procesos | QA & Scraping
+### Desarrolladora Python | Automatización de Procesos 
 
 Soy una desarrolladora enfocada en **Python y automatización**, con experiencia creando soluciones eficientes para optimizar procesos, reducir errores operativos y mejorar la productividad de los equipos.  
 Me caracterizo por ser organizada, analítica y con una fuerte orientación a resultados y mejora continua.
