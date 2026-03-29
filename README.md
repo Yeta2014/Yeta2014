@@ -130,7 +130,7 @@ Me interesa seguir creciendo en:
 ## 📬 Contacto
 
 - 📧 Email: tatisuarez2004@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/yeimmy-tatiana-suarez-quintero-01b5b6270/  
+- 💼 LinkedIn: [https://www.linkedin.com/in/yeimmy-tatiana-suarez-quintero-01b5b6270/](https://www.linkedin.com/in/yeimmy-suarez-quintero-01b5b6270/)  
 - 💻 GitHub: https://github.com/Yeta2014  
 
 ---
